@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-hello-world
     app.kubernetes.io/part-of: test-app-mjrv
-  name: devfile-sample-hello-worlbmnn
+  name: devfile-sample-hello-worlbx30
 spec:
   port:
     targetPort: 8081
